@@ -1,0 +1,399 @@
+
+@media only screen and (min-device-width: 300px) and (max-device-width: 364px) {
+.inner-page-left p {
+  font-size: 13px;
+}
+.inner-page-left h2 {
+  font-size: 24px;
+}
+ .home-container {
+    max-width: 100%;
+	padding: 15px 0 30px!important;
+}
+.img-left img {
+    max-width: 270px;
+}
+.top-main-conatiner .col-md-8 {
+    width: 100%;
+}
+.top-main-conatiner .col-md-4 {
+    width: 100%;
+    max-width: 310px;
+}
+
+.right-side-box{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.accordion .panel li {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-container {
+    padding: 100px 0px 30px;
+}
+.slider .carousel-inner > .item > img {
+    min-height: 200px !important;
+    max-height: 200px !important;
+    width: 100%;
+}
+
+.top-main-conatiner .col-md-4{
+  padding-right: 5% !important;
+  padding-left: 3% !important;
+}
+
+.logo {
+  vertical-align: middle;
+}
+.right-srvy-ul {
+    padding-right: 5px;
+}
+.main-img-box h3 {
+    padding: 25px 10px 11px;
+}
+.main-img-box p {
+    padding: 0px 18px 15px;
+}
+.main-img-box {
+    max-width: 300px;
+    margin: 0px auto 30px;
+}
+.edit-team {
+    width: 90%;
+}
+
+.comn-box-team h4 {
+  font-size: 14px;
+   color: #2F6383;
+   margin-left: 13.5%;
+}
+
+.inner-img2, .inner-img3{
+  width: 100%;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h6{
+  clear: both;
+}
+
+.comn-box-team, .comn-box-team-1, .comn-box-team-2{
+  margin-top: 5px;
+}
+
+.inner-img {}
+.comn-box-team p {
+  color: #000000;
+    font-size: 14px;
+    margin-left: 13.5%;
+    margin-top: 5px;
+}
+
+.comn-box-team-1{
+  width: 90%;
+}
+
+.inner-img {}
+.comn-box-team-1 p {
+  color: #000000;
+    font-size: 14px;
+    margin-left: 12.5px;
+    margin-top: 5px;
+}
+
+.inner-img {}
+.comn-box-team-2 p {
+  color: #000000;
+    font-size: 14px;
+    margin-left: 13.5%;
+}
+
+.comn-box-team-2 h4 {
+  font-size: 14px;
+   color: #2F6383;
+   margin-left: 13.5%;
+}
+}
+
+@media only screen and (min-device-width: 364px) and (max-device-width: 766px) {
+.inner-page-left p {
+  font-size: 13px;
+}
+.inner-page-left h2 {
+  font-size: 24px;
+}
+ .home-container {
+    max-width: 100%;
+	padding: 15px 0 30px!important;
+}
+.img-left img {
+    max-width: 270px;
+}
+.top-main-conatiner .col-md-8 {
+    width: 100%;
+}
+.top-main-conatiner .col-md-4 {
+    width: 100%;
+    max-width: 310px;
+}
+
+.col-md-4{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.right-side-box{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.accordion .panel li {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-container {
+    padding: 100px 0px 30px;
+}
+.slider .carousel-inner > .item > img {
+    min-height: 200px !important;
+    max-height: 200px !important;
+    width: 100%;
+}
+
+.logo {
+  vertical-align: middle;
+}
+.right-srvy-ul {
+    padding-right: 5px;
+}
+.main-img-box h3 {
+    padding: 25px 10px 11px;
+}
+.main-img-box p {
+    padding: 0px 18px 15px;
+}
+.main-img-box {
+    max-width: 300px;
+    margin: 0px auto 30px;
+}
+.edit-team {
+    width: 90%;
+}
+
+.comn-box-team h4 {
+  font-size: 14px;
+   color: #2F6383;
+   margin-left: 13.5%;
+}
+
+.inner-img .center-block img, .inner-img2, .inner-img3{
+  width: 100%;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h6{
+  clear: both;
+}
+
+.comn-box-team, .comn-box-team-1, .comn-box-team-2{
+  margin-top: 5px;
+}
+
+.inner-img {}
+.comn-box-team p {
+  color: #000000;
+    font-size: 14px;
+    margin-left: 13.5%;
+    margin-top: 5px;
+}
+
+.comn-box-team-1{
+  width: 90%;
+  font-size:
+}
+
+.inner-img {}
+.comn-box-team-1 p {
+  color: #000000;
+    font-size: 14px;
+    margin-left: 5.5%;
+    margin-top: 5px;
+}
+
+.inner-img {}
+.comn-box-team-2 p {
+  color: #000000;
+    font-size: 14px;
+    margin-left: 13.5%;
+}
+
+.comn-box-team-2 h4 {
+  font-size: 14px;
+   color: #2F6383;
+   margin-left: 13.5%;
+}
+}
+
+@media only screen and (min-device-width: 766px) and (max-device-width: 790px) {
+  .home-container {
+    width: 100%;
+  }
+  .container-main.mrgn-top .col-md-4,.edit-team .col-md-4  {
+    float: left;
+    width: 33%;
+  }
+  .main-img-box p {
+      font-size: 13px;
+  }
+  .top-main-conatiner .col-md-4 {
+    float: left;
+    width: 40%;
+  }
+  .top-main-conatiner .col-md-8 {
+      float: left;
+      width: 60%;
+  }
+  .main-img-box h3 a {
+      font-size: 17px;
+  }
+  .main-img-box h3 {
+      line-height: 20px;
+  }
+
+  .inner-img2{
+    float: left;
+  }
+
+  h6{
+    clear: both;
+  }
+
+  .comn-box-team, -1, .comn-box-team-2{
+    margin-left: -45px;
+  }
+
+.comn-box-team, .comn-box-team-1{
+  margin-top: 10px;
+}
+.more-1{
+  margin-left: -137%
+}
+.more-2{
+  font-size: 13px;
+  width:90%;
+  margin-left: -137%;
+}
+
+.more-3{
+  margin-top: -36%;
+  margin-left: 207%;
+}
+
+.more-4{
+  margin-top: 4%;
+  margin-left: -33%;
+}
+
+.logo {
+  vertical-align: middle;
+}
+}
+
+
+@media only screen and (min-device-width: 790px) and (max-device-width: 921px) {
+.home-container {
+  width: 100%;
+}
+.container-main.mrgn-top .col-md-4,.edit-team .col-md-4  {
+  float: left;
+  width: 33%;
+}
+.main-img-box p {
+    font-size: 13px;
+}
+.top-main-conatiner .col-md-4 {
+  float: left;
+  width: 40%;
+}
+.top-main-conatiner .col-md-8 {
+    float: left;
+    width: 60%;
+}
+.main-img-box h3 a {
+    font-size: 17px;
+}
+.main-img-box h3 {
+    line-height: 20px;
+}
+.comn-box-team, .comn-box-team-1, .comn-box-team{
+  margin-left: -50px;
+}
+.more-1{
+  margin-top: 8px;
+}
+.more-2{
+  margin-top: 8px;
+  font-size: 13px;
+  width:220px;
+}
+.more-3{
+  margin-top: 4px;
+}
+.more-4{
+  margin-top: 0px;
+  margin-left: -25px;
+}
+}
+
+@media only screen and (min-device-width: 921px) and (max-device-width: 992px) {
+.home-container {
+  width: 100%;
+}
+.container-main.mrgn-top .col-md-4,.edit-team .col-md-4  {
+  float: left;
+  width: 33%;
+}
+.main-img-box p {
+    font-size: 13px;
+}
+.top-main-conatiner .col-md-4 {
+  float: left;
+  width: 40%;
+}
+.top-main-conatiner .col-md-8 {
+    float: left;
+    width: 60%;
+}
+.main-img-box h3 a {
+    font-size: 17px;
+}
+.main-img-box h3 {
+    line-height: 20px;
+}
+.comn-box-team, .comn-box-team-1, .comn-box-team{
+  margin-left: -50px;
+}
+.more-1{
+  margin-top: 8px;
+}
+.more-2{
+  margin-top: 8px;
+  font-size: 13px;
+  width:220px;
+}
+.more-3{
+  margin-top: 4px;
+}
+.more-4{
+  margin-top: 0px;
+  margin-left: -25px;
+}
+}
